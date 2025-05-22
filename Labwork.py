@@ -19,3 +19,8 @@ histogram_eq = np.cumsum(histogram) / np.sum(histogram)
 
 plt.bar(np.arange(115, 210), histogram_eq)
 plt.show()
+
+a = 1
+b = 2
+c = 3
+# First commit check
